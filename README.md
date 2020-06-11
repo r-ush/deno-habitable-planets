@@ -1,5 +1,5 @@
 # Deno-csv
 
-Filter data from planets discovered by kepler telescope from a CSV file and filter them for inhabitability.
+Filter data from planets discovered by Kepler telescope from a CSV file and filter them for habitability.
 
 Just a project made while learning  [Deno!](http://deno.land)
